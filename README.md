@@ -8,4 +8,4 @@ Create a GitHub repository instruction
 
 State:
 
-Working
+Completed
